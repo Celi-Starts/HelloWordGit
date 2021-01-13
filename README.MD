@@ -31,3 +31,6 @@ Underline 2
 - <a href="http://www.google.com">Esto es un link Html</a>
 - [Esto es un link de Markdown](http://www.google.com)
 - [Esto es un link al Index](index.html)
+
+# Imagenes
+![Esta es una imagen](https://image.flaticon.com/icons/png/512/23/23957.png)
