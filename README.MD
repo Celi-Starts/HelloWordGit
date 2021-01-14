@@ -89,3 +89,15 @@ Esto es un texto referente a una cita que pondremos debajo:
 Esto es un texto que no se relaciona con la cita anterior:
 >Esto es otra cita
 
+# Lineas divisoras
+Esto es un texto que sera dividido por guiones medios
+
+---
+
+Esto es un texto que sera dividido por arteriscos
+
+***
+
+Esto es un texto que sera dividido por guiones bajos
+___
+
