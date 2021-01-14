@@ -82,4 +82,10 @@ export  $initHighlight;
 | Celi   | Jaen     | 123456    |
 | Melina | Armijos  | 789100    |
 
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita
+
+Esto es un texto que no se relaciona con la cita anterior:
+>Esto es otra cita
 
