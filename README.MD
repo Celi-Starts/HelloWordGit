@@ -101,3 +101,10 @@ Esto es un texto que sera dividido por arteriscos
 Esto es un texto que sera dividido por guiones bajos
 ___
 
+# Saltos de Linea
+Esto es el primer parrafo
+
+Esto es el segundo parrafo
+
+Esto es el tercer parrafo
+- listas
